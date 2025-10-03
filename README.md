@@ -1,50 +1,35 @@
-<!-- 这是利用 HTML 标签实现居中、美化和强化的版本。 -->
+<div align="center">
+  <a href="https://xiafenxiang.com/"><img width="80%" alt="logo"
+      src="https://img.xiafenxiang.com/file/瞎分享_Logo.png" /></a>
 
-<div style="text-align: center; margin: 20px 0;">
-<!-- LOGO (已修正图片URL为原始文件链接，确保图片能正常显示) -->
-<a href="https://xiafenxiang.com">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/yaro97/xiafenxiang/main/assets/%25E7%259E%258E%25E5%2588%2586%25E4%25BA%25AB_Logo.png" alt="瞎分享 Logo" style="max-width: 200px; margin-bottom: 20px;">
-</a>
+  <h2>瞎分享(xiafenxiang.com)</h2>
+  <p><em>🚀 一个专注分享 实用网络资源 的小圈子</em></p>
+  <p>
+    精选工具｜绿色软件｜学习教程｜影视动漫｜网络资源
+  </p>
+  <p>👉 <a href="https://xiafenxiang.com" style="color: #147EE7;">访问官网 xiafenxiang.com</a></p>
 
-<!-- 标题 -->
+  <!-- shields的小图标 -->
 
-<h1>瞎分享 · xiafenxiang.com</h1>
-
-<!-- 口号 -->
-
-<div style="font-size: 1.2em; margin-top: 20px;">
-🚀 一个专注分享 <strong>实用网络资源</strong> 的小圈子
-
-
-
-
-
-精选工具｜绿色软件｜学习教程｜影视动漫｜便携App
-
-
-
-
-
-👉 <a href="https://xiafenxiang.com" style="color: #147EE7;">访问官网 xiafenxiang.com</a>
-</div>
-
-<!-- shields的小图标 -->
-
-<div style="margin-top: 20px;">
-<a style="margin: 0 10px;" target="_blank" href="https://www.xiafenxiang.com/">
-<img src="https://img.shields.io/badge/Copyright-XFX-E61B62?style=flat&logo=Cloudera&logoColor=white" title="本站版权属于瞎分享">
-</a>
-<a style="margin: 0 10px;" target="_blank" href="https://my.racknerd.com/aff.php?aff=13354">
-<img src="https://img.shields.io/badge/VPS-Racknerd-147EE7?style=flat&logo=ServerFault&logoColor=72B4FF" title="由 Racknerd 提供服务器赞助">
-</a>
-<a style="margin: 0 10px;" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-<img src="https://img.shields.io/badge/Share-BY--NC--SA%204.0-1da262?style=flat&logo=CreativeCommons&logoColor=green" title="本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可">
-</a>
-<a style="margin: 0 10px;" target="_blank" href="https://cloudflare.com/">
-<img src="https://img.shields.io/badge/CDN-CloudFlare-FBAD41?style=flat&logo=Cloudflare&logoColor=orange" title="本站使用Cloudflare提供CDN加速">
-</a>
-</div>
-
+  <div style="margin-top: 20px;">
+    <a style="margin: 0 10px;" target="_blank" href="https://www.xiafenxiang.com/">
+      <img src="https://img.shields.io/badge/Copyright-XFX-E61B62?style=flat&logo=Cloudera&logoColor=white"
+        title="本站版权属于瞎分享">
+    </a>
+    <a style="margin: 0 10px;" target="_blank" href="https://my.racknerd.com/aff.php?aff=13354">
+      <img src="https://img.shields.io/badge/VPS-Racknerd-147EE7?style=flat&logo=ServerFault&logoColor=72B4FF"
+        title="由 Racknerd 提供服务器赞助">
+    </a>
+    <a style="margin: 0 10px;" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+      <img
+        src="https://img.shields.io/badge/Share-BY--NC--SA%204.0-1da262?style=flat&logo=CreativeCommons&logoColor=green"
+        title="本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可">
+    </a>
+    <a style="margin: 0 10px;" target="_blank" href="https://cloudflare.com/">
+      <img src="https://img.shields.io/badge/CDN-CloudFlare-FBAD41?style=flat&logo=Cloudflare&logoColor=orange"
+        title="本站使用Cloudflare提供CDN加速">
+    </a>
+  </div>
 </div>
 
 ## 🌟 关于“瞎分享”
