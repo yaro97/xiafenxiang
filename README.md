@@ -28,7 +28,7 @@
 
 ## 🌟 关于“瞎分享”
 
-**[瞎分享](xiafenxiang.com)**（xiafenxiang.com）是一个由爱好者创建的互联网资源分享社区。  
+**[瞎分享](https://xiafenxiang.com)**（xiafenxiang.com）是一个由爱好者创建的互联网资源分享社区。  
 我们希望为你提供 **小众但高质量** 的工具、教程与信息资源。
 
 我们的宗旨：
