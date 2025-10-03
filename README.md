@@ -1,6 +1,8 @@
 <div align="center">
   <a href="https://xiafenxiang.com/"><img width="300px" alt="logo"
       src="https://img.xiafenxiang.com/file/瞎分享_Logo.png" /></a>
+    <br>
+    <br>
   <p><em>🚀 一个专注分享 实用网络资源 的小圈子</em></p>
   <p>
     精选工具｜绿色软件｜学习教程｜影视动漫｜网络资源
