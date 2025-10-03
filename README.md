@@ -24,10 +24,6 @@
         src="https://img.shields.io/badge/Share-BY--NC--SA%204.0-1da262?style=flat&logo=CreativeCommons&logoColor=green"
         title="本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可">
     </a>
-    <a style="margin: 0 10px;" target="_blank" href="https://cloudflare.com/">
-      <img src="https://img.shields.io/badge/CDN-CloudFlare-FBAD41?style=flat&logo=Cloudflare&logoColor=orange"
-        title="本站使用Cloudflare提供CDN加速">
-    </a>
   </div>
 </div>
 
