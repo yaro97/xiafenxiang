@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://xiafenxiang.com/"><img width="300px" alt="logo"
-      src="https://img.xiafenxiang.com/file/瞎分享_Logo.png" /></a>
-    <br>
-    <br>
+  <a href="https://xiafenxiang.com/"><img width="300px" alt="logo" src="https://img.xiafenxiang.com/file/瞎分享_Logo.png" /></a>
+  <br>
+  <a href="https://xiafenxiang.com/"><img width="300px" alt="logo" src="assets/瞎分享_Logo.png" /></a>
+  <br>
   <p><em>🚀 一个专注分享 实用网络资源 的小圈子</em></p>
   <p>
     精选工具｜绿色软件｜学习教程｜影视动漫｜网络资源
@@ -44,16 +44,12 @@
 
 > 资源仅供学习，请支持正版 🙏
 
----
-
 ## 🔗 重要链接
 
 - 🌐 官网首页：[https://xiafenxiang.com](https://xiafenxiang.com)
 - 📖 社区新人必读手册：[新人必读](https://xiafenxiang.com/newbie)
 - 💬 论坛讨论区：[社区入口](https://xiafenxiang.com/forum)
 - 📝 常见问题：[FAQ](FAQ.md)
-
----
 
 ## 📜 社区公约
 
@@ -63,8 +59,6 @@
 4. 🚫 **红线禁止**：杜绝违法违规、恶意软件、垃圾广告
 
 详细规则请查看 👉 [社区公约](https://xiafenxiang.com/p/6-guide)
-
----
 
 ## 🪙 “虾米”积分体系
 
@@ -78,23 +72,17 @@
 
 更多详情请见 👉 [虾米积分说明](https://xiafenxiang.com/p/6-guide#part-4-jifen)
 
----
-
 ## 🌱 如何参与
 
 如果你愿意贡献优质资源或经验：
 1. 在 [相应Tags分类](https://xiafenxiang.com/tags) 中发布帖子即可分享。
 2. 或直接[联系站长](https://xiafenxiang.com/p/3-about#last_section), 持续有内容输出经验及创造性建议, 共建论坛成为论坛初创人。
 
----
-
 ## 📄 许可证
 
 本项目及其文档遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议。
 
 > 内容仅用于学习与交流，请支持正版软件与资源。
-
----
 
 ## 🌐 官方主站声明与导航
 
