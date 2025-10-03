@@ -7,7 +7,7 @@
   <p>
     精选工具｜绿色软件｜学习教程｜影视动漫｜网络资源
   </p>
-  <p>👉 <a href="https://xiafenxiang.com" style="color: #147EE7;">访问瞎分享官网(xiafenxiang.com)</a></p>
+  <p>👉 访问 <a href="https://xiafenxiang.com" style="color: #147EE7;">瞎分享官网(xiafenxiang.com)</a></p>
 
   <!-- shields的小图标 -->
 
