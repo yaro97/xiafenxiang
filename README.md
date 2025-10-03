@@ -1,13 +1,11 @@
 <div align="center">
-  <a href="https://xiafenxiang.com/"><img width="80%" alt="logo"
+  <a href="https://xiafenxiang.com/"><img width="300px" alt="logo"
       src="https://img.xiafenxiang.com/file/瞎分享_Logo.png" /></a>
-
-  <h2>瞎分享(xiafenxiang.com)</h2>
   <p><em>🚀 一个专注分享 实用网络资源 的小圈子</em></p>
   <p>
     精选工具｜绿色软件｜学习教程｜影视动漫｜网络资源
   </p>
-  <p>👉 <a href="https://xiafenxiang.com" style="color: #147EE7;">访问官网 xiafenxiang.com</a></p>
+  <p>👉 <a href="https://xiafenxiang.com" style="color: #147EE7;">访问瞎分享官网(xiafenxiang.com)</a></p>
 
   <!-- shields的小图标 -->
 
