@@ -19,10 +19,9 @@
       <img src="https://img.shields.io/badge/VPS-Racknerd-147EE7?style=flat&logo=ServerFault&logoColor=72B4FF"
         title="由 Racknerd 提供服务器赞助">
     </a>
-    <a style="margin: 0 10px;" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-      <img
-        src="https://img.shields.io/badge/Share-BY--NC--SA%204.0-1da262?style=flat&logo=CreativeCommons&logoColor=green"
-        title="本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可">
+     <a style="margin: 0 10px;" target="_blank" href="https://flarum.org/">
+      <img src="https://img.shields.io/badge/Powered-Flarum-E7672E?style=flat&logo=ProductHunt"
+        title="由 Flarum 提供论坛支持">
     </a>
   </div>
 </div>
