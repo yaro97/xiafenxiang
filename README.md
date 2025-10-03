@@ -41,9 +41,9 @@
 ## 🔗 重要链接
 
 - 🌐 官网首页：[https://xiafenxiang.com](https://xiafenxiang.com)
-- 📖 社区新人必读手册：[新人必读](https://xiafenxiang.com/newbie)
-- 💬 论坛讨论区：[社区入口](https://xiafenxiang.com/forum)
-- 📝 常见问题：[FAQ](FAQ.md)
+- 📖 社区新人必读手册：[新人必读](https://xiafenxiang.com/p/6-guide)
+- 💬 论坛讨论区：[TG频道](https://t.me/XiaFenXiang)
+- ℹ️ 了解我们：[关于我们](https://xiafenxiang.com/p/3-about)
 
 ## 📜 社区公约
 
