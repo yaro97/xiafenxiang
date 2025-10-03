@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://xiafenxiang.com/"><img width="300px" alt="logo" src="https://img.xiafenxiang.com/file/瞎分享_Logo.png" /></a>
-  <br>
   <a href="https://xiafenxiang.com/"><img width="300px" alt="logo" src="assets/瞎分享_Logo.png" /></a>
+  <br>
   <br>
   <p><em>🚀 一个专注分享 实用网络资源 的小圈子</em></p>
   <p>
